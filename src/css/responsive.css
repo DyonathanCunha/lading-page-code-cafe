@@ -79,6 +79,12 @@
         padding: 9px;
         text-align: center;
     }
+    .cabecalho{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
 }
 
 @media (max-width: 425px) {
